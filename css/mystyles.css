@@ -1,0 +1,17 @@
+.myfont{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mysubf{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: azure !important;
+}
+/* add the "myfont" to the class description
+if wanted to change photo find photo and make it the same in the given image folder*/
+.myimg{
+    width: 50% !important;
+} /* changed photo size*/
+/* ! eneter is default*/
+.myitalics{
+    font-style: italic;
+}
+/* alt shift f if want a cleaner code */
